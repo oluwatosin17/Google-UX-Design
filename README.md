@@ -13,3 +13,15 @@
 - [**Week 4**](https://docs.google.com/document/d/1xeDGrgQlabYhWj20c3IRznnbVJK5mZ1Fqa1khAWSzzY/edit?usp=sharing)
 - [**Week 5**](https://docs.google.com/document/d/1YEWWCjw7_UtLtfRKX7nuuhFmQf6jV51FU6M_xyxvDX8/edit?usp=sharing)
 
+## Build Wireframes and Low-Fidelity Prototypes
+- [**Week 1**](https://docs.google.com/document/d/1S3pW4_9gzWCW6M2rnGTj0xQN40-eeapgylsijJAP7vo/edit?usp=sharing)
+- [**Week 2**](https://docs.google.com/document/d/1caI2kwRuvYaVsenbE0CRvK54CzSZLL2L2mpC6X7uE80/edit?usp=sharing)
+- [**Week 3**](https://docs.google.com/document/d/1i76fClUHU9VEEG1bPtuclwfshBBQVpgI3JXTRRcwoKI/edit?usp=sharing)
+
+## Conduct UX Research and Test Early Concepts
+- [**Week 1**](https://docs.google.com/document/d/13YvafPbYCXwN2l-iejKA7MaJPc18edeyWReXgOtOnYY/edit?usp=sharing)
+- [**Week 2**](https://docs.google.com/document/d/19PBhYdtdp7A-5OD9pA4763dStM8PzlTF_QA5yZn161g/edit?usp=sharing)
+- [**Week 3**](https://docs.google.com/document/d/16UoogDHaHWZsnxdzs30DV3olaORdWEGn-WuqBaIEuGQ/edit?usp=sharing)
+- [**Week 4**](https://docs.google.com/document/d/1clKxF0UglieRS_--ZWwSLMmdc8F_qSdLwfc6HrgT1us/edit?usp=sharing)
+
+## Create High-Fidelity Designs and Prototypes in Figma
