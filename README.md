@@ -25,3 +25,9 @@
 - [**Week 4**](https://docs.google.com/document/d/1clKxF0UglieRS_--ZWwSLMmdc8F_qSdLwfc6HrgT1us/edit?usp=sharing)
 
 ## Create High-Fidelity Designs and Prototypes in Figma
+- [**Week 1**](https://docs.google.com/document/d/1sidOh_2xhvlsClEv5nGczUHXBaNo4oV5Cyp9qulgsCU/edit?usp=sharing)
+- [**Week 2**](https://docs.google.com/document/d/1YD8n8JvuEqTFd2jGPqo4PsYRohSW77ZupWWhDMvYO1Q/edit?usp=sharing)
+- [**Week 3**](https://docs.google.com/document/d/11rSz8qPri4WACnldj-YFT25wvz4saKwuhEB80fol8Ko/edit?usp=sharing)
+- [**Week 4**](https://docs.google.com/document/d/1v1u3ZS7Fkj_bj_zh5hMFq_VeUbqD4HaBnz-2qDKmcu8/edit?usp=sharing)
+- [**Week 5**](https://docs.google.com/document/d/1SCY77iw7AUSLNulypFYLzefumiUjCTFnD2px4GqYoD4/edit?usp=sharing)
+- [**Week 6**](https://docs.google.com/document/d/1q3YcoDKkmm_coc9FXeMcti1pwFgZPQ5f6AQtCZviSck/edit?usp=sharing)
