@@ -31,3 +31,6 @@
 - [**Week 4**](https://docs.google.com/document/d/1v1u3ZS7Fkj_bj_zh5hMFq_VeUbqD4HaBnz-2qDKmcu8/edit?usp=sharing)
 - [**Week 5**](https://docs.google.com/document/d/1SCY77iw7AUSLNulypFYLzefumiUjCTFnD2px4GqYoD4/edit?usp=sharing)
 - [**Week 6**](https://docs.google.com/document/d/1q3YcoDKkmm_coc9FXeMcti1pwFgZPQ5f6AQtCZviSck/edit?usp=sharing)
+
+## Responsive Web Design in Adobe XD 
+- [**Week 1**](https://docs.google.com/document/d/1cMvX4hmUJRz4LgQJbV8-YtVpnMSaJzfxGzTRljwygmU/edit?usp=sharing)
