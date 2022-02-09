@@ -1,7 +1,7 @@
 # Google-UX-Design
 ## [**Artifacts**](https://docs.google.com/spreadsheets/d/1UxHC_B8e8ZaWYRJo3DCHpGixJxXRbCMhjkoCcjBb8Zc/edit?usp=sharing)
 ## Foundations of User Experience (UX) Design
-- [**Week 1**](https://docs.google.com/document/d/1KdOh24CV_HGBfdnBtqg2n1UadCFnJGc1RVAUXylVirg/edit?usp=sharing)
+- [**Week 1**](https://docs.google.com/document/d/12hSMG7v9zblbIPyQWc7l2_2GGgc5ZFiqqf1Sr3z0VbM/edit?usp=sharing)
 - [**Week 2**](https://docs.google.com/document/d/1bGgZ6u8EFdtYOOf98fpeONb_QMH0TaUp4YlKEiddu-4/edit?usp=sharing)
 - [**Week 3**](https://docs.google.com/document/d/1kRixjCL-RZ3mIjj1GNuRyIDZqeYOMxhCmGqLdvblb1U/edit?usp=sharing)
 - [**Week 4**](https://docs.google.com/document/d/1KdOh24CV_HGBfdnBtqg2n1UadCFnJGc1RVAUXylVirg/edit?usp=sharing)
