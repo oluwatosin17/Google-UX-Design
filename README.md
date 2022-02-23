@@ -34,3 +34,8 @@
 
 ## Responsive Web Design in Adobe XD 
 - [**Week 1**](https://docs.google.com/document/d/1cMvX4hmUJRz4LgQJbV8-YtVpnMSaJzfxGzTRljwygmU/edit?usp=sharing)
+- [**Week 2**](https://docs.google.com/document/d/19sGdcokd3Bl8HREQbzJ3VexVzzKlkufgObAvQQbpJ1s/edit?usp=sharing)
+- [**Week 3**](https://docs.google.com/document/d/1RRAJIlrV7Q38Ce5UXGdR00iG-jRy3I7OEvp2Q-dbbIo/edit?usp=sharing)
+- [**Week 4**](https://docs.google.com/document/d/1mdGXs9B-AWuU_t32NMuS0xWHYoUdl4HbYq77RHFo6IU/edit?usp=sharing)
+- [**Week 5**](https://docs.google.com/document/d/1wRt5yEdCOFREDJb0uEq07M6JGUO6eWM83EzFZFwi1Ns/edit?usp=sharing)
+- [**Week 6**](https://docs.google.com/document/d/1N6qgzuNscF5LbXVsqIjQJneXgWzFIsfyaJtre681c1A/edit?usp=sharing)
